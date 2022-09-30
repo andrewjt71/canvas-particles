@@ -1,0 +1,8 @@
+@use "./variables.scss" as *;
+
+.particles-app {
+    cursor: none;
+    height: calc(100vh - $header-height);
+    width: 100%;
+  }
+  
